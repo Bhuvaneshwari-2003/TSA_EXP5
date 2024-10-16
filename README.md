@@ -49,17 +49,23 @@ FIRST FIVE ROWS:
 
 
 PLOTTING THE DATA:
+
 ![image](https://github.com/user-attachments/assets/54356834-0230-4e4d-b3c4-e60f913b8b47)
 
+
 SEASONAL PLOT REPRESENTATION :
+
 ![image](https://github.com/user-attachments/assets/60b54555-216d-4e70-8a9e-7efd76d770df)
 
 
 
 TREND PLOT REPRESENTATION :
+
 ![image](https://github.com/user-attachments/assets/790ce3c4-cf1e-4a30-9736-56f79b4159b6)
 
+
 OVERAL REPRESENTATION:
+
 ![image](https://github.com/user-attachments/assets/b384ef3f-580b-4a13-99fe-1df737c85fad)
 
 
